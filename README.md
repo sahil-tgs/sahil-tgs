@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sahil Mandi and I'm a FrontEND💀 Developer from one of the most competitive country in the world.😢</p>
+<p align="left">My name is Sahil Mandi and I'm a mere FrontEND💀 Developer in this over competitive world 😢</p>
 
 ###
 
