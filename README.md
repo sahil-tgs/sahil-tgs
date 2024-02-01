@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ try Harding since 2020<br>📚 I'm currently learning REACT <br>🎯 Land an internship before graduation.<br>🎲 Fun fact: kuch nahi hai °–°</p>
+<p align="left">✨ try Harding since 2020<br>📚 I'm currently learning C++ & DSA <br>🎯 Land an internship before graduation.<br>🎲 Fun fact: kuch nahi hai °–°</p>
 
 ###
 
