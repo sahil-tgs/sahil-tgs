@@ -1,3 +1,4 @@
+// sanity.config.ts
 import {defineConfig} from 'sanity';
 import {deskTool} from "sanity/desk";
 // import { project } from "./sanity/schemas/project-schema";

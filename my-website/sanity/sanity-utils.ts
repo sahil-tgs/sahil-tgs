@@ -1,6 +1,7 @@
+//sanity-utils.ts
 import {createClient, groq} from "next-sanity";
 
-export async function getprojects(){
+export async function getProjects(){
 
     const  client = createClient({
 

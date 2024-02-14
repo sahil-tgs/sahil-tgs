@@ -1,18 +1,16 @@
-import { getProjects } from "@/sanity/sanity-utils";
-export default function Home() {
+
+import { getProjects } from '@/sanity/sanity-utils'
+
+export default async function Home() {
+   const projects = await getProjects();
+
   return (
-    <div> my project go here </div>
+    <div> 
+      {projects.map((project) => (
+        <div key={project._id}>
+          {project.name}
+        </div>
+      ))}
+    </div>
   );
 }
-
-// export function getStaticPaths(){
-
-// }
-
-// export function getStaticProps() {
-//   return {
-//     props:  {
-//       projects: []
-//     }
-//   }
-// }
