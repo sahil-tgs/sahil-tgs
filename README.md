@@ -1,7 +1,7 @@
 <div align="center">
   	<img src="/experiment/deployparrot.gif" alt="Hi" width="100" />
-	<h1>Hey there! I'm Sahil</h1>
-	<div>Creator of bugs, destroyer of deadlines, and master of the Ctrl+Z! 🐞⏰</div>  
+	<h1>Hey there! I'm a Programmer</h1>
+	<div></div>  
 	<br />
 	<br />
 </div>
