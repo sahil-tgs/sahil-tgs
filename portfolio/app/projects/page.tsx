@@ -1,7 +1,7 @@
 'use client';
 
 import { Container, Title, Text, Card, Image, Button, Group } from '@mantine/core';
-import styles from './projects.module.css'; // Import CSS module for styling
+// import styles from './projects.module.css'; // Import CSS module for styling
 
 const projects = [
   {
@@ -19,12 +19,12 @@ const projects = [
 
 export default function ProjectsPage() {
   return (
-    <div className={styles.container}>
+    <div>
       <Container>
-        <Title className={styles.title}>My Projects</Title>
+        <Title>My Projects</Title>
         <Group position="center" mt="xl">
           {projects.map((project, index) => (
-            <Card key={index} shadow="sm" padding="lg" radius="md" withBorder className={styles.projectCard}>
+            <Card key={index} shadow="sm" padding="lg" radius="md" withBorder>
               <Card.Section>
                 <Image src={project.image} height={160} alt={project.title} />
               </Card.Section>

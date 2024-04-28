@@ -11,7 +11,7 @@ export default function Home() {
       <nav className={styles.navbar}>
         <div className={styles.navbarBrand}>.tgs</div>
         <div className={styles.navbarLinks}>
-          <Link href="/pages/projects" className={styles.navbarLink}>Projects</Link>
+          <Link href="/projects" className={styles.navbarLink}>Projects</Link>
           <Link href="/resume" className={styles.navbarLink}>Resume</Link>
           <Link href="/contact" className={styles.navbarLink}>Contact</Link>
         </div>
